@@ -4,7 +4,7 @@
 
 
 ## capital
-
+Vientiane
  
 ## official language
 
